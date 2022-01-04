@@ -1,8 +1,14 @@
 {
-    "name": "devnet/mvc-template",
-    "description": "DevNet Web Application (Model-View-Controller)",
+    "name": "bekhaouda/e-store",
+    "description": "E-commerce web application built with devnet framework",
     "type": "devnet-template",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Bekhaouda Ahmed",
+            "email": "abekhaouda@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
